@@ -12,6 +12,9 @@ namespace ConsoleApp2
 
 
             //lalalal
+
+
+            string asd = "asdasd";
         }
     }
 }
