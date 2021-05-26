@@ -9,6 +9,5 @@ namespace ConsoleApp2
     class Class1
     {
         // Comment from Evgeny Grek in Class1
-        // Another Comment from Evgeny Grek in Class1
     }
 }
