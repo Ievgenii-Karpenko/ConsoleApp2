@@ -10,7 +10,7 @@ namespace ConsoleApp2
     {
         string login;
         string password;
-
+//
         bool isAutorised;
     }
 }
