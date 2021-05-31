@@ -12,6 +12,8 @@ namespace ConsoleApp2
 
 
             //lalalal
+            
+            int number = 10;
 
 
             string asd = "asdasd";
