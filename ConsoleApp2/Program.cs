@@ -15,6 +15,7 @@ namespace ConsoleApp2
 
 
             string asd = "asdasd";
+            int a = 10;
         }
     }
 }
